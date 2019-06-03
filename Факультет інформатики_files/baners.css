@@ -1,0 +1,338 @@
+.fon_baner, .fon_baner a:link, .fon_baner a:hover, .fon_baner a:visited, .fon_baner a:active
+{
+font-size: 10px;
+color:#afafaf;
+text-decoration: none !important;
+}
+
+/* ops */
+
+.moduletable_link, .module_link{
+font-size: 5px !important;
+line-height: 0px !important;
+margin: 2px 0px 0px 0px !important;
+padding: 4px 0px !important;
+height: 10px !important;
+/*
+border: solid 0px #b4b4b4 !important;
+border-radius: 10px 10px 10px 10px !important;
+width: 100%;
+height: 5px;
+*/
+}
+
+.moduletable_link th, .module_link th {
+font-size: 5px !important;
+font-weight: bold !important;
+text-align: center !important;
+}
+
+.moduletable_link td, .module_link td {
+font-size: 5px !important;
+color: #afafaf !important;
+text-align: center !important;
+}
+
+#slide_link p, #slide_link a, #slide_link div {
+font-size: 5px !important;
+color:#afafaf;
+text-decoration: none !important;
+
+}
+
+/* end ops*/
+
+div.slider_slide a, div.slider_slide a:hover, div.slider_slide a:visited, div.slider_slide a:active 
+{
+font-size: 10px !important;
+font-weight: bold;
+line-height: 1em;
+text-decoration: none !important;
+font-family: Verdana;
+}
+
+div.nn_sliders_slider a,
+div.nn_sliders_slider a:hover
+{
+font-size: 11px !important;
+}
+
+div.tabber_nav li.tabber_tab a,
+div.tabber_nav li.tabber_tab a:hover 
+{
+font-size: 11px !important;
+}
+
+.fon_copy, .fon_copy a:link, .fon_copy a:visited, .fon_copy a:active
+{
+color:#000066;
+font-size: 11px !important;
+font-weight: bold;
+text-decoration: none !important;
+font-family: Verdana;
+border: 0 !important;
+}
+
+.fon_copy a:hover
+{
+color:#3f3f9a;
+}
+
+table.fon_copy, table tr.fon_copy, table th.fon_copy
+{
+border:solid 0px #ffffff !important;
+}
+
+hr
+{
+margin:3px;
+}
+
+div.tabber_nav li.tabber_tab a,
+div.tabber_nav li.tabber_tab a:hover 
+{
+font-size: 11px !important;
+}
+.tool-tip
+{
+border: solid 1px #b4b4b4;
+border-radius: 5px 5px 5px 5px;
+font-size: 11px;
+padding: 4px;
+color:#000066;
+background-color: #ff9;
+}
+
+.foto
+{
+border: 1px solid #E5E5E5;
+display: inline !important;
+/*margin: 0 !important;*/
+padding: 2px !important;
+}
+#iframe html, #iframe body 
+{height: auto;
+}
+
+/*  HEADER */
+/* Zagalny */
+/* NPU */
+.header_center
+{
+background-image:url(../images/background/fon_header_npu.png);
+background-repeat:no-repeat;
+background-position:center;
+}
+/* end NPU */
+
+.logo_center_text, .logo_center_text a:link, .logo_center_text a:visited, .logo_center_text a:active
+{
+font-family: Verdana;
+font-weight: bold;
+font-size: 22px;
+color: #000066;
+text-decoration: none !important;
+float: center;
+}
+
+.logo_center_text a:hover
+{
+color: #0909cc;
+}
+/* end zagalny */
+
+/* II */
+#joomla25_ii_kki, #joomla25_ii_kki a:link, #joomla25_ii_kki a:visited, #joomla25_ii_kki a:active
+{
+color: #FAFFBD;
+}
+
+#joomla25_ii_kki a:hover
+{
+color: #F8FAE4;
+}
+
+/* end II */
+
+.logo_center_npu, .logo_center_npu a:link, .logo_center_npu a:visited, .logo_center_npu a:active
+{
+font-family: Arial Black;
+font-weight: bold !important;
+font-size: 16px;
+color: #000066;
+text-decoration: none !important;
+float: center;
+}
+
+.logo_center_wou, .logo_center_wou a:link, .logo_center_wou a:visited, .logo_center_wou a:active
+{
+font-family: Arial Black;
+font-weight: bold !important;
+font-size: 26px;
+color: #ffffff;
+text-decoration: none !important;
+float: center;
+}
+
+
+.logo_center_npu a:hover
+{
+color: #0909cc;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////// */
+
+/* II */
+#joomla25_ii_kki, #joomla25_ii_kki a:link, #joomla25_ii_kki a:visited, #joomla25_ii_kki a:active
+{color: #FAFFBD;}
+
+#joomla25_ii_kki a:hover
+{color: #F8FAE4;}
+
+#npu_joomla25_ii_kki, #npu_joomla25_ii_kki a:link, #npu_joomla25_ii_kki a:visited, #npu_joomla25_ii_kki a:active
+{color: #FAFFBD;}
+
+#npu_joomla25_ii_kki a:hover
+{color: #F8FAE4;}
+
+#joomla3_ii, #joomla3_ii a:link, #joomla3_ii a:visited, #joomla3_ii a:active
+{color: #FAFFBD;}
+
+#joomla3_ii a:hover
+{color: #F8FAE4;}
+
+#npu_joomla3_ii, #npu_joomla3_ii a:link, #npu_joomla3_ii a:visited, #npu_joomla3_ii a:active
+{color: #FAFFBD;}
+
+#npu_joomla3_ii a:hover
+{color: #F8FAE4;}
+
+/* end II */
+
+
+/* IFVS */
+#joomla25_ivfs, #joomla25_ifvs a:link, #joomla25_ifvs a:visited, #joomla25_ifvs a:active
+{color: #FAFFBD;}
+
+#joomla25_ifvs a:hover
+{color: #F8FAE4;}
+
+#npu_joomla25_ifvs, #npu_joomla25_ifvs a:link, #npu_joomla25_ifvs a:visited, #npu_joomla25_ifvs a:active
+{color: #FAFFBD;}
+
+#npu_joomla25_ifvs a:hover
+{color: #F8FAE4;}
+/* end IFVS */
+
+/* IGTO */
+#header_joomla25_igto table
+}
+ background: #00ff00;
+}
+
+#joomla25_igto, #joomla25_igto a:link, #joomla25_igto a:visited, #joomla25_igto a:active
+{color: #000066;}
+
+#joomla25_igto a:hover
+{color: #000099;}
+
+#npu_joomla25_igto, #npu_joomla25_igto a:link, #npu_joomla25_igto a:visited, #npu_joomla25_igto a:active
+{color: #000066;}
+
+#npu_joomla25_igto a:hover
+{color: #000099;}
+/* end IGTO */
+
+/* FV */
+#joomla3_vf, #joomla3_fv a:link, #joomla3_fv a:visited, #joomla3_fv a:active
+{color: #FAFFBD;}
+
+#joomla3_fv a:hover
+{color: #F8FAE4;}
+
+#npu_joomla3_fv, #npu_joomla3_fv a:link, #npu_joomla3_fv a:visited, #npu_joomla3_fv a:active
+{color: #FAFFBD;}
+
+#npu_joomla3_fv a:hover
+{color: #F8FAE4;}
+/* end FV */
+
+/* fspnu */
+#joomla3_fspnu, #joomla3_fspnu a:link, #joomla3_fspnu a:visited, #joomla3_fspnu a:active
+{color: #FAFFBD;}
+
+#joomla3_fspnu a:hover
+{color: #F8FAE4;}
+
+#npu_joomla3_fspnu, #npu_joomla3_fspnu a:link, #npu_joomla3_fspnu a:visited, #npu_joomla3_fspnu a:active
+{color: #FAFFBD;}
+
+#npu_joomla3_fspnu a:hover
+{color: #F8FAE4;}
+/* end fspnu */
+
+
+
+
+/* BVP */
+#header_joomla25_npu_bvp,
+#header_joomla25_npu_bvp a:link, 
+#header_joomla25_npu_vbp a:visited,
+#header_joomla25_npu_bvp a:active
+{
+font-family: Georgia;
+font-style: italic;
+color: #ffffff;
+}
+
+.br_joomla25_npu_bvp 
+{
+color: #97DBCF;
+}
+
+/* end BVP */
+
+/* END HEADER */
+
+/* Рейтинги сайтів */
+.font_r
+{
+font-family: Arial;
+font-weight: bold !important;
+font-size: 10px;
+color: #000066;
+text-decoration: none !important;
+float: center;
+}
+
+.fon_r_all
+{
+ background: #00ffbb
+}
+
+.fon_all
+{
+ background: #00ff00;
+}
+/* END Рейтинги сайтів */
+
+
+/*Language */
+#headermodule2
+{
+    padding-left: 32px  !important;
+}
+
+/*Nonubre */
+
+.accordion-body 
+{
+    padding: 0px 0px 0px 0px !important;
+}
+
+.accordion-heading 
+{
+    font-size: 110% !important;
+    font-weight: bold !important;
+    margin: 0px 0 0px 0 !important;
+}

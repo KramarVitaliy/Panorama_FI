@@ -1,14 +1,24 @@
+body{
+	margin: 0;
+	width: 1500px;
+	height: 600px;
+}
 .panorama-viewport {
 	position: relative;
-	width: 600px;
 	overflow: hidden;
 	margin: 0;
 	padding: 0;
 	text-align: left;
 }
+.panorama {
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: 4000px;
+}
 .panorama-container {
 	position: relative;
-	width: 100000px;
+	width: 10000px; 			/*Довжина панорами*/
 	margin: 0;
 	padding: 0;
 
@@ -20,7 +30,7 @@
 	margin: 0;
 	bottom: -1px;
 	left: 0;
-	width: 100%;
+	width: 1500px; 			/*Ширина контрольної панелі*/
 	height: 30px;
 	background: black;
 	filter: alpha(opacity=50);
@@ -65,10 +75,5 @@
 .panorama-panel ul {
 	display: none;
 }
-.panorama {
-	position: relative;
-	margin: 0;
-	padding: 0;
-	border: none;
-}
+
 
